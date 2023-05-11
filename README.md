@@ -3,6 +3,13 @@ This repo includes different javascript challenges. It can help you to improve y
 
 
 ***
+[alphabetposition.js](alphabetposition.js)
+```
+Your task is to make a function that can take any non-negative integer as an argument and return it 
+with its digits in descending order. Essentially, 
+rearrange the digits to create the highest possible number.
+```
+***
 [arraydif.js](arraydif.js)
 ```
 Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
