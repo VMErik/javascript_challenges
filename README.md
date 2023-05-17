@@ -22,6 +22,12 @@ Write a function that takes an integer as input, and returns the number of bits 
 You can guarantee that input is non-negative.
 ```
 ***
+[buggerpersistence.js](buggerpersistence.js)
+```
+Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
+For example : 39 --> 3 (because 3*9 = 27, 2*7 = 14, 1*4 = 4 and 4 has only one digit)
+```
+***
 [descendingorder.js](descendingorder.js)
 ```
 Your task is to make a function that can take any non-negative integer as an argument and return it 
@@ -53,6 +59,11 @@ Jaden is also known for some of his philosophy that he delivers via Twitter. Whe
 capitalizing every word. For simplicity, you'll have to capitalize each word, check out how contractions are expected to be in the example below.
 Your task is to convert strings to how they would be written by Jaden Smith. 
 The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.
+```
+***
+[movingzeros.js](movingzeros.js)
+```
+Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 ```
 ***
 
