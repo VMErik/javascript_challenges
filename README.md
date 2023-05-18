@@ -66,5 +66,12 @@ The strings are actual quotes from Jaden Smith, but they are not capitalized in 
 Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 ```
 ***
+[splitstrings.js](splitstrings.js)
+```
+Complete the solution so that it splits the string into pairs of two characters. 
+If the string contains an odd number of characters then it should replace the missing 
+second character of the final pair with an underscore ('_').
+```
+***
 
 
