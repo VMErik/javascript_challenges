@@ -66,6 +66,14 @@ The strings are actual quotes from Jaden Smith, but they are not capitalized in 
 Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 ```
 ***
+[phonenumber.js](phonenumber.js)
+```
+Write a function that accepts an array of 10 integers (between 0 and 9), 
+that returns a string of those numbers in the form of a phone number.
+Example : 
+createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
+```
+***
 [splitstrings.js](splitstrings.js)
 ```
 Complete the solution so that it splits the string into pairs of two characters. 
