@@ -82,6 +82,11 @@ Example :
 createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
 ```
 ***
+[scramblies.js](scramblies.js)
+```
+Complete the function scramble(str1, str2) that returns true if a portion of str1 characters can be rearranged to match str2, otherwise returns false.
+```
+***
 [splitstrings.js](splitstrings.js)
 ```
 Complete the solution so that it splits the string into pairs of two characters. 
