@@ -1,7 +1,12 @@
 # javascript_challenges
 This repo includes different javascript challenges. It can help you to improve your javascript skills and develop your logical thinking
 
-
+***
+[addingBigNumbers.js](addingBigNumbers.js)
+```
+We need to sum big numbers and we require your help.
+Write a function that returns the sum of two numbers. The input numbers are strings and the function must return a string.
+```
 ***
 [alphabetposition.js](alphabetposition.js)
 ```
@@ -85,6 +90,12 @@ createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
 [scramblies.js](scramblies.js)
 ```
 Complete the function scramble(str1, str2) that returns true if a portion of str1 characters can be rearranged to match str2, otherwise returns false.
+```
+***
+[simplepiglatin.js](simplepiglatin.js)
+```
+Move the first letter of each word to the end of it, 
+then add "ay" to the end of the word. Leave punctuation marks untouched.
 ```
 ***
 [splitstrings.js](splitstrings.js)
