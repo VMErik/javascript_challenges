@@ -98,6 +98,11 @@ Move the first letter of each word to the end of it,
 then add "ay" to the end of the word. Leave punctuation marks untouched.
 ```
 ***
+[simplreremoveduplicates.js](simplreremoveduplicates.js)
+```
+Remove the duplicates from a list of integers, keeping the last ( rightmost ) occurrence of each element.
+```
+***
 [splitstrings.js](splitstrings.js)
 ```
 Complete the solution so that it splits the string into pairs of two characters. 
