@@ -53,6 +53,12 @@ with its digits in descending order. Essentially,
 rearrange the digits to create the highest possible number.
 ```
 ***
+[findtheuniquestring.js](findtheuniquestring.js)
+```
+There is an array of strings. All strings contains similar letters except one. Try to find it!
+Strings may contain spaces. Spaces are not significant, only non-spaces symbols matters. E.g. string that contains only spaces is like empty string.
+```
+***
 [friendorfoe.js](friendorfoe.js)
 ```
 Make a program that filters a list of strings and returns a list with only your friends name in it.
